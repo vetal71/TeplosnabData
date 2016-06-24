@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [user2] AUTHORIZATION [user2]
+GO

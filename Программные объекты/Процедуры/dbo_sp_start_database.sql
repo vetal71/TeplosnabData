@@ -1,0 +1,11 @@
+﻿SET QUOTED_IDENTIFIER, ANSI_NULLS ON
+GO
+
+
+
+CREATE  PROCEDURE [dbo].[sp_start_database]
+AS
+	SET DATEFORMAT dmy
+ 	SET LANGUAGE русский
+        SET DATEFIRST 1
+GO

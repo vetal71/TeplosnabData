@@ -1,0 +1,2 @@
+﻿CREATE SCHEMA [lena] AUTHORIZATION [lena]
+GO

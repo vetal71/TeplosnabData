@@ -1,0 +1,3 @@
+﻿CREATE USER [lena]
+  WITHOUT LOGIN
+GO
